@@ -1,0 +1,41 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+
+meteor-platform
+jquery
+less
+random
+tracker
+session
+reactive-var
+http
+webapp
+ejson
+
+
+autopublish
+insecure
+
+nemo64:bootstrap
+momentjs:moment
+
+prime8consulting:meteor-oauth2-client
+service-configuration
+accounts-ui
+oauth
+
+simple:json-routes@2.1.0
+
+clinical:active-layout
+clinical:active-layout-reset
+clinical:theming
+clinical:theming-ui
+clinical:fonts
+clinical:active-users
+clinical:keybindings
+clinical:error-pages
+#clinical:active-entry
